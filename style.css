@@ -8,3 +8,6 @@ input, button {
 fieldset {
     width: fit-content;
 }
+legend {
+    font-weight: 700;
+}
